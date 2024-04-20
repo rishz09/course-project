@@ -15,7 +15,7 @@ Keep **pickle.dump()** and **plt.savefig()** statements uncommented if you wish 
 
 ## Order of execution of files
 
-1) [experiment_with_classifiers](experiment_with_classifiers.ipynb) - Trains different classifiers on different variation of the MNIST dataset.
+1) [experiment_with_classifiers](experiment_with_classifiers.ipynb) - Trains different classifiers on different variations of the MNIST dataset.
 2) [augmentation_code](augmentation_code.ipynb) - Generates variations of the training dataset to have more training examples for the best models. File creates and saves a .feather file.
 3) [save_custom_transformed_data](save_custom_transformed_data.ipynb) - Creates and saves two .feather files, which are used for training and testing the best models.
 4) [best_models](best_models.ipynb) - Trains the best models on the augmented dataset, and saves the classifiers are .pkl files for later use.
