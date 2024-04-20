@@ -45,6 +45,10 @@ The above files won't work properly if not executed in the above order.
 * Histogram Gradient Boosting Classifier
 * Support Vector Machines with Radial Basis Function Kernel
 
+## Maximum Accuracy Achieved
+
+98.08%
+
 ## Report
 
 View the [report](report.pdf) to get an in-depth understanding of the project.
