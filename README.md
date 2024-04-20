@@ -16,10 +16,12 @@ Classification on MNIST Dataset, utilising only traditional Machine Learning tec
 2) [augmentation_code](augmentation_code.ipynb) - Generates variations of the training dataset to have more training examples for the best models. File creates and saves a .feather file.
 3) [save_custom_transformed_data](save_custom_transformed_data.ipynb) - Creates and saves two .feather files, which are used for training and testing the best models.
 4) [best_models](best_models.ipynb) - Trains the best models on the augmented dataset, and saves the classifiers are .pkl files for later use.
-5) [prediction_real_img](prediction_real_img.ipynb) - Provides prediction of two handwritten digits clicked on camera.
+5) [prediction_real_img](prediction_real_img.ipynb) - Provides prediction of two handwritten digits, [3.jpg](3.jpg) and [7.jpg](7.jpg), clicked on camera.
 
-The above files won't work properly if not executed in the above order. The other files will work only after file 4 has been executed.
-[failure_case_best_model](failure_case_best_model.ipynb) 
-
+The above files won't work properly if not executed in the above order.
+<br>
+<br>
+[gen_augmentation_images](gen_augmentation_images.ipynb) is used to view the different variations of a single image, after data augmentation. Can be used after execution of [file 2](augmentation_code.ipynb).
+[failure_case_best_model](failure_case_best_model.ipynb) is used to perform failure case analysis of the best model obtained after training. File is available for execution after executing [file 4](best_models.ipynb).
 
 
