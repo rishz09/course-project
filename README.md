@@ -5,4 +5,6 @@ Classification on MNIST Dataset, utilising only traditional Machine Learning tec
 ### Prerequisites
 
 <li>Downloading the MNIST Dataset is necessary for execution of the files.</li>
-<li>The dataset is available in [Dataset](http://git-disl.github.io/GTDLBench/datasets/mnist_datasets/) </li>
+<li>The dataset is available in <a href="https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/" target="_blank">MNIST Dataset</a></li>
+<li>Download the <b>.CSV</b> files of the training and test set.</li>
+<li>Create a folder </li>
