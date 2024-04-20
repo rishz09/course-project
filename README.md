@@ -45,6 +45,10 @@ The above files won't work properly if not executed in the above order.
 * Histogram Gradient Boosting Classifier
 * Support Vector Machines with Radial Basis Function Kernel
 
+## Report
+
+View the report to get an in-depth understanding of the project
+
 ## Authors
 
 * Ankit Kumar (B22CS076)
@@ -52,4 +56,7 @@ The above files won't work properly if not executed in the above order.
 * Pujit Jha (B22CS091)
 * Raj Nandan Singh (B22EE052)
 * Ayush Pekamwar (B22EE084)
+
+\
+**Group No: 32**
 
