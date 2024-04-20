@@ -11,7 +11,7 @@ Classification on MNIST Dataset, utilising only traditional Machine Learning tec
 
 ## Instruction regarding saving files and images
 
-Keep **pickle.dump** and **plt.savefig** statements uncommented if you wish to save the trained classifiers or images.
+Keep **pickle.dump()** and **plt.savefig()** statements uncommented if you wish to save the trained classifiers or images.
 
 ## Order of execution of files
 
