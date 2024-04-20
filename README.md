@@ -22,6 +22,7 @@ The above files won't work properly if not executed in the above order.
 <br>
 <br>
 [gen_augmentation_images](gen_augmentation_images.ipynb) is used to view the different variations of a single image, after data augmentation. Can be used after execution of [file 2](augmentation_code.ipynb).
+<br>
 [failure_case_best_model](failure_case_best_model.ipynb) is used to perform failure case analysis of the best model obtained after training. File is available for execution after executing [file 4](best_models.ipynb).
 
 
