@@ -8,7 +8,10 @@ Classification on MNIST Dataset, utilising only traditional Machine Learning tec
 <li>The dataset is available in <a href="https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/" target="_blank">MNIST Dataset</a></li>
 <li>Download the <b>.CSV</b> files of the training and test set.</li>
 <li>Create a folder <b>MNIST_CSV</b> on the main branch, and inside the folder, store the two datasets as <b>MNIST_train.csv</b> and <b>MNIST_test.csv</b></li>
-<li>A folder named <b>pkl_objects</b> must be created on the main branch, if user wants to store the classifiers as pickle files.</li>
+
+## Instruction regarding saving files and images
+
+Keep **pickle.dump** and **plt.savefig** statements uncommented if you wish to save the trained classifiers or images.
 
 ## Order of execution of files
 
