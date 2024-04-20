@@ -63,7 +63,7 @@ A concise [presentation](slides.pdf) about the project.
 ## Interface
 
 * [App](app) folder contains the code to the app hosted on Hugging Face.
-* [Link](https://huggingface.co/spaces/rishz09/prml-project)
+* [Link](https://huggingface.co/spaces/rishz09/prml-project) to interface.
 
 ## Authors
 
