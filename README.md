@@ -60,6 +60,11 @@ View the [report](report.pdf) to get an in-depth understanding of the project.
 
 A concise [presentation](slides.pdf) about the project. 
 
+## Interface
+
+* [App](app) folder contains the code to the app hosted on Hugging Face.
+* [Link](https://huggingface.co/spaces/rishz09/prml-project)
+
 ## Authors
 
 * Ankit Kumar (B22CS076)
