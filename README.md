@@ -56,6 +56,10 @@ The above files won't work properly if not executed in the above order.
 
 View the [report](report.pdf) to get an in-depth understanding of the project.
 
+## Slides
+
+A concise [presentation](slides.pdf) about the project. 
+
 ## Authors
 
 * Ankit Kumar (B22CS076)
