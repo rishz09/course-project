@@ -47,7 +47,7 @@ The above files won't work properly if not executed in the above order.
 
 ## Report
 
-View the report to get an in-depth understanding of the project
+View the [report](report.pdf) to get an in-depth understanding of the project
 
 ## Authors
 
