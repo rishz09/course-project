@@ -1,4 +1,4 @@
-# Interface Hosted on Hugging Face
+# [Interface](https://huggingface.co/spaces/rishz09/prml-project) Hosted on Hugging Face
 
 This folder contains files to deploy the app on Hugging Face.
 * [requirements.txt](requirements.txt) contains the modules and their corresponding versions which shall be installed on building the app for the first time.
