@@ -1,4 +1,4 @@
-# Handwritten Digit Classification
+# Handwritten Digit Classification (with Custom Feature Extractor)
 
 Classification on MNIST Dataset, utilising only traditional Machine Learning techniques. This is a course project of the course <b>Pattern Recognition And Machine Learning</b> of <b>IIT Jodhpur</b>, taught in Semester-II of Academic Year 2023-24.
 
